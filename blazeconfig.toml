@@ -24,7 +24,7 @@ liveserverconfig = true
 [build]
 
 # this is the folder that will be built from.
-input = 'docs'
+input = 'content'
 # change this to the folder where your content is, i.e. the content or docs folder. (this is only for blaze.toomwn.xyz)
 
 # this is the output folder (i.e. where the compiled html will go)
@@ -33,9 +33,9 @@ output = 'output'
 
 # these folders / files will be ignored
 ignore = [
-  'docs/templates',
-  'docs/.obsidian',
-  'docs/private',
+  'content/templates',
+  'content/.obsidian',
+  'content/private',
 ]
 #NOTE: If you make changes to the baseurl in 'input' you need to change it here as well. Maybe not in the future :/
 
@@ -44,5 +44,4 @@ ignore = [
 # custom themes for specific pages will be setup else where!
 theme = 'default'
 
-temp_base_url = '/'
-base_url = '/'
+base_url = 'litblog.toomwn.xyz'
