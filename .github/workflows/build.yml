@@ -48,7 +48,7 @@ jobs:
       - name: Custom Domain
         run: |
           touch 'CNAME'
-          echo "blaze.toomwn.xyz" > 'CNAME'
+          echo "litblog.toomwn.xyz" > 'CNAME'
           
           # replace "blaze.toomwn.xyz" with your custom name
           # delete this part of the workflow if you don't have a custom domain
