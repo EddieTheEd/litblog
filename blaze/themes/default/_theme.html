@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {{ partial "head.html" .}}
+  {{theme}}
+</head>
+<header>
+  {{ partial "header.html" .}}
+</header>
+<body>
+  <div id="description">
+    <i>{{description}}</i>
+  </div>
+
+  <div id="search"></div>
+  <script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+      new PagefindUI({ 
+        element: "#search", 
+        showSubResults: false, 
+        baseUrl: "{{base_url}}",
+        showImages: false,
+        debounceTimeoutMs: 0,
+      });
+    });
+  </script>
+  
+  <div id="page">
+    {{ partial "body.html" .}}
+  </div>
+  
+  
+  <div id="footer">
+    <div id="backlinks">
+      <h2 id="backlinkstitle">Backlinks</h2>
+      {{ partial "backlinks.html" . }}
+    </div>
+    <div id="recent">
+      <h2 id="recenttitle">Recent pages</h2>
+      <i>Note that currently Blaze takes the filename instead of the title for recent pages. Will be fixed some day!</i>
+      <br>
+      <br>
+      <p id="recentdummytext">None found yet.</p>
+    </div>
+  </div>
+  
+    
+  
+  
+</body>
+
+</html>
