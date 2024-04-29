@@ -30,12 +30,17 @@ With Tim Winton being a West Australian author and all, it's probably best to ta
 > 
 > Regional Australian masculinities are typified by ‘traditional’ values (e.g., stoicism, self-reliance) known to restrict social connectedness.
 >
->[From this random American article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9734714/
+>[From this random American article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9734714/)
 
 
 Throughout Australia's history, and most certainly through its literature, we get glimpses of the stereotypical "white Aussie bloke", the man of the house who struggles for the family, never showing any signs of weakness or vulnerability. Both of the short stories portray Vic as growing into this stereotype, and indicate that unstable, violent Australian society induces paranoia. Winton suggests that the unsafe social environment of rural Australia leads to the masculine traits we see from Vic, namely his fascination with defending himself and labouring for his family without complaint.
 
 - Characterisation of Vic as fearful of an unknown and dangerous rural Australian community in Long, Clear View
+
+In <u>Long, Clear View</u>, we get all this negative talk coming from Vic, telling himself that he’s “not a baby” and that he should “shut up and stop bawling”. Clearly, Vic has some troubles being open and emotional, preferring instead to keep his anxiety and fears to himself. The harsh, deleterious vernacular Vic directs to himself is symptomatic of toxic masculine ideals of stoicism and self-hatred being rooted into Vic's personality.
+
+When his dad leaves, Vic assumes the status of a father to his remaining family, and is able to “break two tons of mallee roots”, with his hands becoming as “leathery as a man’s”. With his father out of the picture, Vic’s childhood is cut short as he matures into being the man of the house. Winton points out how familial struggles that are commonplace in rural Australian households impose a toxic masculinity on young boys who are forced to grow up and deal with the harsh, labour-intensive lifestyle.
+
 - Portrayal of Vic as overprotective in Damaged Goods and Long, Clear View
 - Intertextuality of Damaged Goods with Burning Sappho, link to general themes
 - Conclusion
