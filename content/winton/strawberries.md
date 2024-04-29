@@ -26,9 +26,12 @@ Personally, I think that Winton portrays life as a West Australian through the p
 With Tim Winton being a West Australian author and all, it's probably best to talk about some recurring themes in his literature that are Australian specific. The one that comes to mind when reading <u>Long, Clear View</u> and <u>Damaged Goods</u> is the concept of Australian masculinity. 
 
 
-> [!quote] [This random American article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9734714/)
+> [!quote] The Impact of Masculinity on Social Connectedness and Mental Health for Men Living in Inner-Regional Australia
 > 
 > Regional Australian masculinities are typified by ‘traditional’ values (e.g., stoicism, self-reliance) known to restrict social connectedness.
+>
+>[From this random American article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9734714/
+
 
 Throughout Australia's history, and most certainly through its literature, we get glimpses of the stereotypical "white Aussie bloke", the man of the house who struggles for the family, never showing any signs of weakness or vulnerability. Both of the short stories portray Vic as growing into this stereotype, and indicate that unstable, violent Australian society induces paranoia. Winton suggests that the unsafe social environment of rural Australia leads to the masculine traits we see from Vic, namely his fascination with defending himself and labouring for his family without complaint.
 
