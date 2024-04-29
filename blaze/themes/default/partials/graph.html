@@ -1,6 +1,6 @@
 <div id="graphcontainer">
     <div id="graphheader">
-      <h2 id="graphtitle">Graph</h2><button id="globalgraphbutton" onclick="openglobalgraph()"></button>
+      <h2 id="graphtitle">Graph</h2>
       <script>
         document.getElementById("globalgraphbutton").style.background = "url('{{base_url}}static/globalgraph.svg') no-repeat";
       </script>
@@ -9,25 +9,6 @@
     <div id="graph">
     </div>
     
-  <script src="{{base_url}}js/3d-force-graph.js">
-      
-    </script>
-    <div id="3d-graph" style="width:'100px'; height: '100px'; bottom: 0px; right: 50vw; display: block; position: fixed;">
-      <div style="position: relative;">
-        <div>
-          <div class="scene-container" style="position: relative;">
-            <div class="scene-nav-info" style="display: none;">
-              Left-click: rotate, Mouse-wheel/middle-click: zoom, Right-click: pan, Escape: close
-            </div>
-            <div class="scene-tooltip" style="top: 875px; left: 1458px; transform: translate(-75.9375%, 21px);">
-            </div>
-            <canvas data-engine="three.js r157"style="display: block; touch-action: none;" class=""></canvas>
-
-          </div>
-
-        </div>
-        <div class="graph-info-msg"></div>
-      </div>
-    </div>
+  
 
 </div>
