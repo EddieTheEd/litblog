@@ -2,7 +2,6 @@
 title: When life gives you strawberries
 ---
 ![](../timwintonquote1.png)
-
 ([From an ABC interview](https://www.youtube.com/watch?v=DbVQT4ouwzc))
 
 Thanks, Timothy. Very much like Albany.
@@ -21,8 +20,7 @@ With Tim Winton being a West Australian author and all, it's probably best to ta
 
 
 ![](../turningquote2.png)
-
-[From this random American article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9734714/)
+([From this random American article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9734714/))
 
 Throughout Australia's history, and most certainly through its literature, we get glimpses of the stereotypical "white Aussie bloke", the man of the house who struggles for the family, never showing any signs of weakness or vulnerability. Both of the short stories portray Vic as growing into this stereotype, and indicate that unstable, violent Australian society induces paranoia. Winton suggests that the unsafe social environment of rural Australia leads to the masculine traits we see from Vic, namely his fascination with defending himself and labouring for his family without complaint.
 
@@ -37,6 +35,8 @@ Now for the weird bit. Vic is... obsessive... to say the least, about a "Strawbe
 Near the end of the story, we discover that Alison and her girlfriend are “incinerated” after they “had hit a tree out on the coastal highway”. Alison predicts her own death through the poem she wrote in her final year of school. 
 
 Perhaps this could be alluding to the title of Gwen Harwood's <u>Burning Sappho</u>? I mean, the similarities are pretty obvious. Alison writes a *poem*, about *two girls burning*. Alison becomes a "born-again lesbian", with the word "lesbian" being derived from her home island. And both Harwood and Winton are both classic Australian authors. I guess that means Vic's relationship with Alison was doomed from the beginning, with Gail recounting how Vic "dreamed of piling her into a car and tearing out of town". Vic charges himself with the duty to protect Alison, with the toxic masculine values of controlling and protecting women being kicked into full gear for him.
+
+![](../gwenharwoodtimwinton.png)
 
 We are told that Vic “drove back out” to the tree and “thought of the crimson splash of flame Alison had sent forth”. Winton indicates how people have a heightened envisioning of the traumatic loss of their loved ones, through the emotive sensory imagery with which Gail recounts Vic's reaction. Clearly, Winton wants us to understand how the trauma inflicted onto people through the death of loved ones wounds them psychologically. For Vic, in particular, this results into a regression of his child-like masculine personality, which evolved out of his paranoia and fear of his childhood community.
 
