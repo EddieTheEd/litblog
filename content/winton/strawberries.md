@@ -2,7 +2,6 @@
 title: When life gives you strawberries
 ---
 ![](../timwintonquote1.png)
-
 ([From an ABC interview](https://www.youtube.com/watch?v=DbVQT4ouwzc))
 
 Thanks, Timothy. Very much like Albany.
@@ -21,8 +20,7 @@ With Tim Winton being a West Australian author and all, it's probably best to ta
 
 
 ![](../turningquote2.png)
-
-[From this random American article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9734714/)
+([From this random American article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9734714/))
 
 Throughout Australia's history, and most certainly through its literature, we get glimpses of the stereotypical "white Aussie bloke", the man of the house who struggles for the family, never showing any signs of weakness or vulnerability. Both of the short stories portray Vic as growing into this stereotype, and indicate that unstable, violent Australian society induces paranoia. Winton suggests that the unsafe social environment of rural Australia leads to the masculine traits we see from Vic, namely his fascination with defending himself and labouring for his family without complaint.
 
