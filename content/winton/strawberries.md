@@ -4,19 +4,19 @@ title: When life gives you strawberries
 ![](../timwintonquote1.png)
 ([From an ABC interview](https://www.youtube.com/watch?v=DbVQT4ouwzc))
 
-Thanks, Timothy. Sounds like Albany.
+Thanks, Timothy. Sure sounds like Albany.
 
-Tim Winton has a long record of making all sorts of contributions to literature, be it plays, prose texts, short stories, etc. Last year, he got [a pretty big award](https://www.gg.gov.au/sites/default/files/2023-07/KB23%20-%20Honours%20List%20-%20Order%20of%20Australia%20%28General%20and%20Military%20Divisions%29%20Inc%20CHEYNE%20%282%29.pdf) as well! But, alas, we are not here to talk about Cloudstreet, or Breath, instead I'm going to be talking about <u>The Turning</u> (2004). Which, in my *totally* humble opinion, ranks up there with his heavy hitters. 
+Tim Winton has a long record of making all sorts of brilliant contributions to literature, be it plays, prose, and even a movie! But, alas, we are not here to talk about Cloudstreet, or Breath, instead I'm going to be talking about <u>The Turning</u> (2004). Which, in my *totally* humble opinion, ranks up there with his heavy hitters. 
 
 <u>The Turning</u> is a pretty long anthology, so I'll definitely be talking about it again. But for now, I want to discuss my thoughts on just *two* of these short stories. <u>Damaged Goods</u> and <u>Long, Clear View</u>.
 
-The majority of short stories about Vic Lang(*arguably the protagonist of the whole anthology*) is told by Vic himself. But not <u>Damaged Goods</u>. Instead, we are introduced to "the girl with the strawberry birthmark" mentioned in <u>Long, Clear View</u> from the perspective of Gail, Vic's wife. 
+The majority of short stories about Vic Lang(*arguably the protagonist of the whole anthology*) is told by Vic himself. But not <u>Damaged Goods</u>. Instead, we are introduced to "the girl with the strawberry birthmark" mentioned in <u>Long, Clear View</u> from the perspective of Gail, Vic's wife. We learn of Vic's obsession with Alison, and discover that she ultimately perishes in a car crash.
 
-<u>Long, Clear View</u>, on the other hand, is narrated from the perspective of a young Vic Lang, who recounts the violence and crime that permeates life in Angelus. We learn that Vic's father, Bob, leaves the family, and the story ends with Vic clutching his father's rifle.
+<u>Long, Clear View</u>, on the other hand, is narrated from the perspective of a young Vic Lang, who recounts the violence and crime that permeates life in Angelus. We learn that Vic's father, Bob, leaves the family, and the story ends with Vic clutching his father's rifle and aiming at passing townsfolk.
 
 ![](../vietlang.jpg)
 
-Personally, I think that Winton portrays life as a Western Australian through the perspective of Vic. In his portrayal of Angelus, Winton reflects on the violent, disjoint nature of regional Australian culture due to the lack of financial opportunities and social conflicts rooted in opposing identities. However, Winton's portrayal of Western Australian life is more nuanced, as he presents how the essence of Western Australian identity is interwoven with the influence of tragedy and loss.
+Personally, I think that Winton portrays life as a Western Australian through the perspective of Vic. In his portrayal of the fictional town of Angelus, based on Winton's hometown Albany, Winton reflects on the violent, disjoint nature of regional Australian culture due to the social conflicts rooted in opposing identities. However, Winton's portrayal of Western Australian life is more nuanced, as he presents how the essence of Western Australian identity is interwoven with the influence of tragedy and loss.
 
 With Tim Winton being a Western Australian author and all, it's probably best to talk about some recurring themes in his literature that are Australian specific. The one that comes to mind when reading <u>Long, Clear View</u> and <u>Damaged Goods</u> is the concept of **Australian masculinity**. 
 
@@ -37,7 +37,7 @@ Near the end of the story, we learn that Alison and her girlfriend are “incine
 
 ![](../alisonvroomvroom.png)
 
-Perhaps this could be alluding to the title of Gwen Harwood's <u>Burning Sappho</u>? I mean, the similarities are pretty obvious. Alison writes a *poem*, about *two girls burning*. Alison becomes a "born-again lesbian", with the word "lesbian" being derived from Sappho's home island. And both Harwood and Winton are classic Australian authors. I guess that means Vic's relationship with Alison was doomed from the beginning, with Gail recounting how Vic "dreamed of piling her into a car and tearing out of town". Vic charges himself with the duty to protect Alison, with his toxic masculine values of controlling and protecting women kicked into full gear.
+Perhaps this could be alluding to the title of Gwen Harwood's <u>Burning Sappho</u>? I mean, the similarities are pretty obvious. Alison writes a *poem*, about *two girls burning*. Alison becomes a "born-again lesbian", with the word "lesbian" being derived from Sappho's home island. And both Harwood and Winton are classic Australian authors. I guess that means Vic's relationship with Alison was doomed from the beginning, with Gail recounting how Vic "dreamed of piling her into a car and tearing out of town". Vic charges himself with the duty to protect Alison, with his toxic masculine values of controlling and 'protecting' women kicked into full gear.
 
 ![](../gwenharwoodtimwinton.png)
 
