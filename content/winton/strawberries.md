@@ -18,12 +18,12 @@ The majority of short stories about Vic Lang(*arguably the protagonist of the wh
 
 Personally, I think that Winton portrays life as a Western Australian through the perspective of Vic. In his portrayal of Angelus, Winton reflects on the violent, disjoint nature of regional Australian culture due to the lack of financial opportunities and social conflicts rooted in opposing identities. However, Winton's portrayal of Western Australian life is more nuanced, as he presents how the essence of Western Australian identity is interwoven with the influence of tragedy and loss.
 
-With Tim Winton being a West Australian author and all, it's probably best to talk about some recurring themes in his literature that are Australian specific. The one that comes to mind when reading <u>Long, Clear View</u> and <u>Damaged Goods</u> is the concept of **Australian masculinity**. 
+With Tim Winton being a Western Australian author and all, it's probably best to talk about some recurring themes in his literature that are Australian specific. The one that comes to mind when reading <u>Long, Clear View</u> and <u>Damaged Goods</u> is the concept of **Australian masculinity**. 
 
 ![](../turningquote2.png)
 ([From a NCBI article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9734714/))
 
-Throughout Australia's history, and most certainly through its literature, we get glimpses of the stereotypical "white Aussie bloke", the man of the house who struggles for the family, never showing any signs of weakness or vulnerability. Both of the short stories portray Vic as growing into this stereotype, and indicate that unstable, violent Australian society induces paranoia. Winton suggests that the unsafe social environment of rural Australia leads to the masculine traits we see from Vic, namely his fascination with defending himself and labouring for his family without complaint.
+Throughout Australia's history, and certainly throughout its literature, we get glimpses of the stereotypical "white Aussie bloke", the man of the house who struggles for the family, never showing any signs of weakness or vulnerability. Both of the short stories portray Vic as growing into this stereotype, and indicate that his dangerous childhood town induced his paranoia. Winton suggests that the unsafe societal environment of rural Australia leads to the masculine traits we see from Vic, namely his fascination with defending himself and labouring for his family without complaint.
 
 ![](../shearingtherams.jpg)
 
@@ -41,7 +41,7 @@ Perhaps this could be alluding to the title of Gwen Harwood's <u>Burning Sappho<
 
 ![](../gwenharwoodtimwinton.png)
 
-After the car crash, Vic “drove back out” to the tree and “thought of the crimson splash of flame Alison had sent forth”. Winton uses this vivid visual imagery of the scene, coupled with the fiery thermal imagery to indicate how our imagining of the traumatic loss of our loved ones is warped by the intensity of our emotions and, more specifically, our grief. Clearly, Winton wants us to understand how the trauma inflicted onto people through the death of loved ones wounds them psychologically. For Vic, in particular, this results into a regression of his child-like masculine personality, which evolved out of his paranoia and fear of his childhood community.
+After the car crash, Vic “drove back out” to the tree and “thought of the crimson splash of flame Alison had sent forth”. Winton uses this vivid visual imagery of the scene, coupled with the fiery thermal imagery to indicate how our imagining of the traumatic loss of our loved ones is warped by the intensity of our emotions and, more specifically, our grief. Clearly, Winton wants us to understand how the trauma inflicted onto people through the death of loved ones wounds them psychologically. For Vic in particular, this results into a breakdown of his masculine persona, with him being "in the workshop, weeping over an old photograph".
 
 Well, that's all I have to say about these two, peculiar short stories. Next time I'll be talking about the very 'unpleasant' marriage of Raelene and Max.
 
