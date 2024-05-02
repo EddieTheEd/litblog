@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!--meta tags, favicon-->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- HTML Meta Tags -->
+<meta name="description" content="A ""simple"" static site generator written in Rust.
+
+the reasoning: quartz == igneous == ignite == fire == blazingly fast™">
+
+<!-- Facebook Meta Tags -->
+<meta property="og:url" content="https://litblog.toomwn.xyz/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Blaze">
+<meta property="og:description" content="A &quot simple &quot static site generator written in Rust.
+
+the reasoning: quartz == igneous == ignite == fire == blazingly fast™">
+<!-- Twitter Meta Tags -->
+<meta property="twitter:domain" content="https://litblog.toomwn.xyz/">
+<meta property="twitter:url" content="https://litblog.toomwn.xyz/">
+<meta name="twitter:title" content="Blaze">
+<meta name="twitter:description" content="A &quot simple &quot static site generator written in Rust.
+
+the reasoning: quartz == igneous == ignite == fire == blazingly fast™">
+
+<!--to do later: make the baseurl thingy (will have to ask ossac(alongside logic for html partials(and forwardlinks)))-->
+
+<link rel="icon" type="image/x-icon" href="https://litblog.toomwn.xyz/static/blaze.ico">
+
+<title>Smoke Encrypted Whispers</title>
+
+<script src="https://litblog.toomwn.xyz/js/immediatedarkmode.js"></script>
+
+<link rel="preload" href="https://litblog.toomwn.xyz/css/main.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://litblog.toomwn.xyz/css/main.css"></noscript>
+
+<link rel="preload" href="https://litblog.toomwn.xyz/css/custom.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://litblog.toomwn.xyz/css/custom.css"></noscript>
+
+<link rel="preload" href="https://litblog.toomwn.xyz/css/pagefindcustom.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://litblog.toomwn.xyz/css/pagefindcustom.css"></noscript>
+
+<script src="https://litblog.toomwn.xyz/js/d3.v7.min.js" ></script>
+
+<script src="https://litblog.toomwn.xyz/js/graph.js"></script>
+
+<script>
+    MathJax = {
+        tex: {
+            inlineMath: [['$', '$'], ['$$', '$$'], ['\\(', '\\)']],
+            tags: "ams",
+        },
+        TeX: {
+            extensions: ['AMSmath.js'],
+            inlineMathDelimiters: [['$', '$'], ['\\(', '\\)']],
+            displayMathDelimiters: [['$$', '$$']],
+            processEnvironments: false,
+            processRefs: true,
+            indentalign: '\\left|',
+        },
+    };
+</script>
+<script type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+
+<script src="https://litblog.toomwn.xyz/codeblocks/codeblocksmain.js"></script>
+
+<link rel="stylesheet" href="https://litblog.toomwn.xyz/codeblocks/codeblocks.css">
+
+<script src="https://litblog.toomwn.xyz/codeblocks/codeblocksextras.js"></script>
+
+
+<script src="https://litblog.toomwn.xyz/js/nextprevious.js"></script>
+
+
+  
+</head>
+<header>
+  <div id="header">
+  <div>
+    <a id="headinglink" href="https://litblog.toomwn.xyz/">
+      <div id="insideheader">
+        <img id="headericon" src="https://litblog.toomwn.xyz/static/blaze.png" height="60" width="60">
+        <h1 id="pageh1">Smoke Encrypted Whispers</h1>
+      </div>
+    </a>
+  </div>
+  <div>
+    <img id = "darklightimg" src="https://litblog.toomwn.xyz/static/darkmode.svg" width="40px" height="40px"/>
+    <script defer src="https://litblog.toomwn.xyz/js/darkmode.js"></script>
+  </div>
+</div>
+
+<link href="https://litblog.toomwn.xyz/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="https://litblog.toomwn.xyz/pagefind/pagefind-ui.js"></script>
+
+
+</header>
+<body>
+  <div id="description">
+    <i></i>
+  </div>
+
+  <div id="search"></div>
+  <script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+      new PagefindUI({ 
+        element: "#search", 
+        showSubResults: false, 
+        baseUrl: "https://litblog.toomwn.xyz/",
+        showImages: false,
+        debounceTimeoutMs: 0,
+      });
+    });
+  </script>
+  
+  <div id="page">
+    <div id="leftside">
+    <div id="toc">
+    <h2 id="toctitle">Table of Contents</h2>
+    <ol id="toccontent">
+      
+    </ol>
+<script defer src="https://litblog.toomwn.xyz/js/toc.js"></script>
+</div>
+
+
+
+
+    <div id="graphcontainer">
+    <div id="graphheader">
+      <h2 id="graphtitle">Graph</h2>
+      <script>
+        document.getElementById("globalgraphbutton").style.background = "url('https://litblog.toomwn.xyz/static/globalgraph.svg') no-repeat";
+      </script>
+
+    </div>
+    <div id="graph">
+    </div>
+    
+  
+
+</div>
+
+</div>
+
+<div id="rightside">
+    <div id="nextpreviouslinks">
+      
+    </div>
+    <h2 id="sidenotetitle"></h2>
+    
+    <ul>
+<li><a href="brownwaterlooting.html">brown water looting</a></li>
+</ul>
+    <div id="nextpreviouslinks2">  
+    </div>
+    <script rel="preload" src="https://litblog.toomwn.xyz/js/sidenotes.js"></script>
+
+
+    <script defer src="https://litblog.toomwn.xyz/js/callouts.js"></script>
+
+</div>
+
+<script defer src="https://litblog.toomwn.xyz/js/mobilefriendly.js"></script>
+
+  </div>
+  
+  
+  <div id="footer">
+    <div id="backlinks">
+      <h2 id="backlinkstitle">Backlinks</h2>
+      <a href=" index.html">The real literature blog</a><br>
+
+
+    </div>
+  </div>
+  
+    
+  
+  
+</body>
+
+</html>
