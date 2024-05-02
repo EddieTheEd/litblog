@@ -46,3 +46,5 @@ After the car crash, Vic “drove back out” to the tree and “thought of the 
 Well, that's all I have to say about these two, peculiar short stories. Next time I'll be talking about the very 'unpleasant' marriage of Raelene and Max.
 
 See you then!
+
+![[me.png]]

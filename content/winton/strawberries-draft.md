@@ -43,3 +43,5 @@ We are told that Vic “drove back out” to the tree and “thought of the crim
 Well, that's all I have to say about these two, perculiar short stories. Next time I'll be talking about the very very not good marriage between Raelene and Max.
 
 See you then!
+
+Word Count: 1068
