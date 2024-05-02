@@ -33,9 +33,11 @@ When his dad leaves, Vic assumes the status of a father to his remaining family,
 
 Now for the 'odd' part of the collection. Vic is... obsessive... to say the least, about a "Strawberry Alison" from his high-school. In <u>Damaged Goods</u>, Vic’s wife tells us that “the mark” Alison had since birth is “the root of [Vic’s] obsession” with her, leading him to "instinctively seek out a victim to defend". Through the intimate 1st person perspective of Gail, we are directly confronted with her dismay at Vic's desire to protect those he deems vulnerable. Winton further portrays Vic as victim to the masculine beliefs which make him overbearing and protective. Clearly, the trauma of losing his father, the death of his sister and growing up in a dangerous, rural Australian town has left Vic *pretty* messed up, and desperate to control the women around him.
 
-Near the end of the story, we learn that Alison and her girlfriend are “incinerated” after they “had hit a tree out on the coastal highway”. Alison is able to predict her own death via the poem she wrote in her final year of high-school. 
+Near the end of the story, we learn that Alison and her girlfriend are “incinerated” after they “had hit a tree out on the coastal highway”. Alison is able to predict her own death via the poem she wrote in her final year of high-school.
 
-Perhaps this could be alluding to the title of Gwen Harwood's <u>Burning Sappho</u>? I mean, the similarities are pretty obvious. Alison writes a *poem*, about *two girls burning*. Alison becomes a "born-again lesbian", with the word "lesbian" being derived from Sappho's home island. And both Harwood and Winton are both classic Australian authors. I guess that means Vic's relationship with Alison was doomed from the beginning, with Gail recounting how Vic "dreamed of piling her into a car and tearing out of town". Vic charges himself with the duty to protect Alison, with the toxic masculine values of controlling and protecting women being kicked into full gear.
+![](../alisonvroomvroom.png)
+
+Perhaps this could be alluding to the title of Gwen Harwood's <u>Burning Sappho</u>? I mean, the similarities are pretty obvious. Alison writes a *poem*, about *two girls burning*. Alison becomes a "born-again lesbian", with the word "lesbian" being derived from Sappho's home island. And both Harwood and Winton are both classic Australian authors. I guess that means Vic's relationship with Alison was doomed from the beginning, with Gail recounting how Vic "dreamed of piling her into a car and tearing out of town". Vic charges himself with the duty to protect Alison, with his toxic masculine values of controlling and protecting women kicked into full gear.
 
 ![](../gwenharwoodtimwinton.png)
 
