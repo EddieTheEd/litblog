@@ -37,13 +37,13 @@ Near the end of the story, we learn that Alison and her girlfriend are “incine
 
 ![](../alisonvroomvroom.png)
 
-Perhaps this could be alluding to the title of Gwen Harwood's <u>Burning Sappho</u>? I mean, the similarities are pretty obvious. Alison writes a *poem*, about *two girls burning*. Alison becomes a "born-again lesbian", with the word "lesbian" being derived from Sappho's home island. And both Harwood and Winton are classic Australian authors. I guess that means Vic's relationship with Alison was doomed from the beginning, with Gail recounting how Vic "dreamed of piling her into a car and tearing out of town". Vic charges himself with the duty to protect Alison, with his toxic masculine values of controlling and 'protecting' women kicked into full gear.
+Perhaps this could be alluding to the title of Gwen Harwood's <u>Burning Sappho</u>? I mean, the similarities are pretty obvious. Alison writes a *poem*, about *two girls burning*. Alison becomes a "born-again lesbian", with the word "lesbian" being derived from Sappho's home island. And both Harwood and Winton are classic Australian authors. I guess that means Vic's relationship with Alison was doomed from the beginning, with Gail recounting how Vic "dreamed of piling her into a car and tearing out of town". Vic charges himself with the duty to protect Alison, with his toxic masculine values of controlling and 'protecting' women kicked into full gear. 
 
 ![](../gwenharwoodtimwinton.png)
 
-After the car crash, Vic “drove back out” to the tree and “thought of the crimson splash of flame Alison had sent forth”. Winton uses this vivid visual imagery of the scene, coupled with the fiery thermal imagery to indicate how our imagining of the traumatic loss of our loved ones is warped by the intensity of our emotions and, more specifically, our grief. Clearly, Winton wants us to understand how the trauma inflicted onto people through the death of loved ones wounds them psychologically. For Vic in particular, this results into a breakdown of his masculine persona, with him being "in the workshop, weeping over an old photograph".
+After the car crash, Vic “drove back out” to the tree and “thought of the crimson splash of flame Alison had sent forth”. Winton uses this vivid visual imagery of the scene, coupled with the fiery thermal imagery to indicate how our imagining of the traumatic loss of our loved ones is warped by the intensity of our emotions and, more specifically, our grief. Clearly, Winton wants us to understand how the trauma inflicted onto people through the death of loved ones wounds them psychologically. For Vic in particular, this results into a breakdown of his masculine persona, with him being "in the workshop, weeping over an old photograph". Poor guy.
 
-Well, that's all I have to say about these two, peculiar short stories. Next time I'll be talking about the very 'unpleasant' marriage of Raelene and Max.
+Well, that's all I have to say about these two rather peculiar short stories. Next time I'll be talking about the very 'unpleasant' marriage of Raelene and Max.
 
 See you then!
 
