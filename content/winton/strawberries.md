@@ -47,4 +47,4 @@ Well, that's all I have to say about these two, peculiar short stories. Next tim
 
 See you then!
 
-![[me.png]]
+![me](../me.png)
