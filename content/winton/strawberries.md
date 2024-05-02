@@ -1,6 +1,8 @@
 ---
 title: When life gives you strawberries
 ---
+
+
 ![](../timwintonquote1.png)
 ([From an ABC interview](https://www.youtube.com/watch?v=DbVQT4ouwzc))
 
