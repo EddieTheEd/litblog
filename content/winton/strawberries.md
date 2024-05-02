@@ -23,7 +23,7 @@ With Tim Winton being a Western Australian author and all, it's probably best to
 ![](../turningquote2.png)
 ([From a NCBI article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9734714/))
 
-Throughout Australia's history, and certainly throughout its literature, we get glimpses of the stereotypical "white Aussie bloke", the man of the house who struggles for the family, never showing any signs of weakness or vulnerability. Both of the short stories portray Vic as growing into this stereotype, and indicate that his dangerous childhood town induced his paranoia. Winton suggests that the unsafe societal environment of rural Australia leads to the masculine traits we see from Vic, namely his fascination with defending himself and labouring for his family without complaint.
+Throughout Australia's history, and certainly throughout its literature, we get glimpses of the stereotypical "white Aussie bloke"; the man of the house who struggles for the family, never showing any signs of weakness or vulnerability. Both of the short stories portray Vic as growing into this stereotype, and indicate that his dangerous childhood town induced his paranoia. Winton suggests that the unsafe societal environment of rural Australia leads to the masculine traits we see from Vic, namely his fascination with defending himself and labouring for his family without complaint.
 
 ![](../shearingtherams.jpg)
 
